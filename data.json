@@ -1,0 +1,28 @@
+{
+  "persons": [
+    {
+      "name": "Rahim",
+      "age": "25",
+      "hometown": "Dhaka",
+      "married": false
+    },
+    {
+      "name": "Karim",
+      "age": "25",
+      "hometown": "Pabna",
+      "married": true
+    },
+    {
+      "name": "Abul",
+      "age": "25",
+      "hometown": "Tangail",
+      "married": false
+    },
+    {
+      "name": "Akbor",
+      "age": "25",
+      "hometown": "Bagra",
+      "married": true
+    }
+  ]
+}
